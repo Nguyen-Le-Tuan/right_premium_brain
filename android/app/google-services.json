@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759818598617",
+    "project_id": "premium-brain",
+    "storage_bucket": "premium-brain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759818598617:android:227ffbbb410852ef1566c8",
+        "android_client_info": {
+          "package_name": "com.example.right_premium_brain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoLYBmxO51FFgIPuGIoMmpVi_eDL8LzFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
